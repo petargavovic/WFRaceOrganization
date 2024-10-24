@@ -1,0 +1,85 @@
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\bin\Debug\Server.exe.config
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\bin\Debug\Server.exe
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\bin\Debug\Server.pdb
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\bin\Debug\DatabaseBroker.dll
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\bin\Debug\DatabaseBroker.pdb
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\bin\Debug\DatabaseBroker.dll.config
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\obj\Debug\Server.exe
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\obj\Debug\Server.pdb
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\bin\Debug\Common.dll
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\bin\Debug\Common.pdb
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\obj\Debug\Server.FrmServer.resources
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\bin\Debug\MaterialSkin.dll
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\obj\Debug\Server.FrmServer.resources
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\obj\Debug\Server.exe
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\obj\Debug\Server.pdb
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\bin\Debug\Server.exe.config
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\bin\Debug\Server.exe
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\bin\Debug\Server.pdb
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\bin\Debug\Common.dll
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\bin\Debug\DatabaseBroker.dll
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\bin\Debug\MaterialSkin.dll
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\bin\Debug\Common.pdb
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\bin\Debug\DatabaseBroker.pdb
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\bin\Debug\DatabaseBroker.dll.config
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\hp\OneDrive\Documents\Sistem\Server\bin\Debug\Server.exe.config
+C:\Users\hp\OneDrive\Documents\Sistem\Server\bin\Debug\Server.exe
+C:\Users\hp\OneDrive\Documents\Sistem\Server\bin\Debug\Server.pdb
+C:\Users\hp\OneDrive\Documents\Sistem\Server\bin\Debug\Common.dll
+C:\Users\hp\OneDrive\Documents\Sistem\Server\bin\Debug\DatabaseBroker.dll
+C:\Users\hp\OneDrive\Documents\Sistem\Server\bin\Debug\MaterialSkin.dll
+C:\Users\hp\OneDrive\Documents\Sistem\Server\bin\Debug\Common.pdb
+C:\Users\hp\OneDrive\Documents\Sistem\Server\bin\Debug\DatabaseBroker.pdb
+C:\Users\hp\OneDrive\Documents\Sistem\Server\bin\Debug\DatabaseBroker.dll.config
+C:\Users\hp\OneDrive\Documents\Sistem\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\Sistem\Server\obj\Debug\Server.FrmServer.resources
+C:\Users\hp\OneDrive\Documents\Sistem\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\hp\OneDrive\Documents\Sistem\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Documents\Sistem\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\Sistem\Server\obj\Debug\Server.csproj.Up2Date
+C:\Users\hp\OneDrive\Documents\Sistem\Server\obj\Debug\Server.exe
+C:\Users\hp\OneDrive\Documents\Sistem\Server\obj\Debug\Server.pdb
+C:\Users\User\Desktop\Sistem\Server\bin\Debug\Server.exe.config
+C:\Users\User\Desktop\Sistem\Server\bin\Debug\Server.exe
+C:\Users\User\Desktop\Sistem\Server\bin\Debug\Server.pdb
+C:\Users\User\Desktop\Sistem\Server\bin\Debug\Common.dll
+C:\Users\User\Desktop\Sistem\Server\bin\Debug\DatabaseBroker.dll
+C:\Users\User\Desktop\Sistem\Server\bin\Debug\MaterialSkin.dll
+C:\Users\User\Desktop\Sistem\Server\bin\Debug\Common.pdb
+C:\Users\User\Desktop\Sistem\Server\bin\Debug\DatabaseBroker.pdb
+C:\Users\User\Desktop\Sistem\Server\bin\Debug\DatabaseBroker.dll.config
+C:\Users\User\Desktop\Sistem\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sistem\Server\obj\Debug\Server.FrmServer.resources
+C:\Users\User\Desktop\Sistem\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\User\Desktop\Sistem\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Sistem\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sistem\Server\obj\Debug\Server.csproj.Up2Date
+C:\Users\User\Desktop\Sistem\Server\obj\Debug\Server.exe
+C:\Users\User\Desktop\Sistem\Server\obj\Debug\Server.pdb
+C:\Users\hp\OneDrive\Desktop\Sistem\Server\bin\Debug\Server.exe.config
+C:\Users\hp\OneDrive\Desktop\Sistem\Server\bin\Debug\Server.exe
+C:\Users\hp\OneDrive\Desktop\Sistem\Server\bin\Debug\Server.pdb
+C:\Users\hp\OneDrive\Desktop\Sistem\Server\bin\Debug\Common.dll
+C:\Users\hp\OneDrive\Desktop\Sistem\Server\bin\Debug\DatabaseBroker.dll
+C:\Users\hp\OneDrive\Desktop\Sistem\Server\bin\Debug\MaterialSkin.dll
+C:\Users\hp\OneDrive\Desktop\Sistem\Server\bin\Debug\Common.pdb
+C:\Users\hp\OneDrive\Desktop\Sistem\Server\bin\Debug\DatabaseBroker.pdb
+C:\Users\hp\OneDrive\Desktop\Sistem\Server\bin\Debug\DatabaseBroker.dll.config
+C:\Users\hp\OneDrive\Desktop\Sistem\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\Sistem\Server\obj\Debug\Server.FrmServer.resources
+C:\Users\hp\OneDrive\Desktop\Sistem\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\hp\OneDrive\Desktop\Sistem\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\Sistem\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\Sistem\Server\obj\Debug\Server.csproj.Up2Date
+C:\Users\hp\OneDrive\Desktop\Sistem\Server\obj\Debug\Server.exe
+C:\Users\hp\OneDrive\Desktop\Sistem\Server\obj\Debug\Server.pdb

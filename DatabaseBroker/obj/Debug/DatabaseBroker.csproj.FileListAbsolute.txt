@@ -1,0 +1,50 @@
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\DatabaseBroker\bin\Debug\DatabaseBroker.dll.config
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\DatabaseBroker\bin\Debug\DatabaseBroker.dll
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\DatabaseBroker\bin\Debug\DatabaseBroker.pdb
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CopyComplete
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\DatabaseBroker\obj\Debug\DatabaseBroker.dll
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\DatabaseBroker\obj\Debug\DatabaseBroker.pdb
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\DatabaseBroker\bin\Debug\Common.dll
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\DatabaseBroker\bin\Debug\Common.pdb
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\DatabaseBroker\bin\Debug\DatabaseBroker.dll.config
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\DatabaseBroker\bin\Debug\DatabaseBroker.dll
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\DatabaseBroker\bin\Debug\DatabaseBroker.pdb
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\DatabaseBroker\bin\Debug\Common.dll
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\DatabaseBroker\bin\Debug\Common.pdb
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CopyComplete
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\DatabaseBroker\obj\Debug\DatabaseBroker.dll
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\DatabaseBroker\obj\Debug\DatabaseBroker.pdb
+C:\Users\hp\OneDrive\Documents\Sistem\DatabaseBroker\bin\Debug\DatabaseBroker.dll.config
+C:\Users\hp\OneDrive\Documents\Sistem\DatabaseBroker\bin\Debug\DatabaseBroker.dll
+C:\Users\hp\OneDrive\Documents\Sistem\DatabaseBroker\bin\Debug\DatabaseBroker.pdb
+C:\Users\hp\OneDrive\Documents\Sistem\DatabaseBroker\bin\Debug\Common.dll
+C:\Users\hp\OneDrive\Documents\Sistem\DatabaseBroker\bin\Debug\Common.pdb
+C:\Users\hp\OneDrive\Documents\Sistem\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\Sistem\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\Sistem\DatabaseBroker\obj\Debug\Database.22E2B33D.Up2Date
+C:\Users\hp\OneDrive\Documents\Sistem\DatabaseBroker\obj\Debug\DatabaseBroker.dll
+C:\Users\hp\OneDrive\Documents\Sistem\DatabaseBroker\obj\Debug\DatabaseBroker.pdb
+C:\Users\User\Desktop\Sistem\DatabaseBroker\bin\Debug\DatabaseBroker.dll.config
+C:\Users\User\Desktop\Sistem\DatabaseBroker\bin\Debug\DatabaseBroker.dll
+C:\Users\User\Desktop\Sistem\DatabaseBroker\bin\Debug\DatabaseBroker.pdb
+C:\Users\User\Desktop\Sistem\DatabaseBroker\bin\Debug\Common.dll
+C:\Users\User\Desktop\Sistem\DatabaseBroker\bin\Debug\Common.pdb
+C:\Users\User\Desktop\Sistem\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sistem\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sistem\DatabaseBroker\obj\Debug\Database.22E2B33D.Up2Date
+C:\Users\User\Desktop\Sistem\DatabaseBroker\obj\Debug\DatabaseBroker.dll
+C:\Users\User\Desktop\Sistem\DatabaseBroker\obj\Debug\DatabaseBroker.pdb
+C:\Users\hp\OneDrive\Desktop\Sistem\DatabaseBroker\bin\Debug\DatabaseBroker.dll.config
+C:\Users\hp\OneDrive\Desktop\Sistem\DatabaseBroker\bin\Debug\DatabaseBroker.dll
+C:\Users\hp\OneDrive\Desktop\Sistem\DatabaseBroker\bin\Debug\DatabaseBroker.pdb
+C:\Users\hp\OneDrive\Desktop\Sistem\DatabaseBroker\bin\Debug\Common.dll
+C:\Users\hp\OneDrive\Desktop\Sistem\DatabaseBroker\bin\Debug\Common.pdb
+C:\Users\hp\OneDrive\Desktop\Sistem\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\Sistem\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\Sistem\DatabaseBroker\obj\Debug\Database.22E2B33D.Up2Date
+C:\Users\hp\OneDrive\Desktop\Sistem\DatabaseBroker\obj\Debug\DatabaseBroker.dll
+C:\Users\hp\OneDrive\Desktop\Sistem\DatabaseBroker\obj\Debug\DatabaseBroker.pdb

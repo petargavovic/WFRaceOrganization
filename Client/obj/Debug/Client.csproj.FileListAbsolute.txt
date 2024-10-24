@@ -1,0 +1,195 @@
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\Client.exe.config
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\Client.exe
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\Client.pdb
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\Server.exe
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\DatabaseBroker.dll
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\Server.pdb
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\Server.exe.config
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\DatabaseBroker.pdb
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\DatabaseBroker.dll.config
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\obj\Debug\Client.exe
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\obj\Debug\Client.pdb
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\MaterialSkin.dll
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\obj\Debug\Client.FrmStart.resources
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\Common.dll
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\Common.pdb
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\obj\Debug\Client.FrmLogin.resources
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\obj\Debug\Client.FrmEntity.resources
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\obj\Debug\Client.FrmEntities.resources
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\Client.exe.config
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\Client.exe
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\Client.pdb
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\Common.dll
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\MaterialSkin.dll
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\Server.exe
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\DatabaseBroker.dll
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\Common.pdb
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\Server.pdb
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\Server.exe.config
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\DatabaseBroker.pdb
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\DatabaseBroker.dll.config
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\obj\Debug\Client.FrmStart.resources
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\obj\Debug\Client.FrmEntity.resources
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\obj\Debug\Client.FrmEntities.resources
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\obj\Debug\Client.FrmLogin.resources
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\obj\Debug\Client.exe
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\obj\Debug\Client.pdb
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\obj\Debug\StazeZaTrke.FrmGeneratorStaze.resources
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\‪\7. semestar\✔\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Client\obj\Debug\Client.FrmSimulacija.resources
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\Client.exe.config
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\Client.exe
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\Client.pdb
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\Common.dll
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\MaterialSkin.dll
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\Server.exe
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\System.Buffers.dll
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\System.Memory.dll
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\System.Text.Json.dll
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\System.ValueTuple.dll
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\DatabaseBroker.dll
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\Common.pdb
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\Server.pdb
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\Server.exe.config
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\System.Buffers.xml
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\System.Memory.xml
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\System.Text.Json.xml
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\System.ValueTuple.xml
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\DatabaseBroker.pdb
+C:\Users\hp\OneDrive\Documents\Sistem\Client\bin\Debug\DatabaseBroker.dll.config
+C:\Users\hp\OneDrive\Documents\Sistem\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\Sistem\Client\obj\Debug\Client.FrmSimulacija.resources
+C:\Users\hp\OneDrive\Documents\Sistem\Client\obj\Debug\Client.FrmStart.resources
+C:\Users\hp\OneDrive\Documents\Sistem\Client\obj\Debug\Client.FrmEntity.resources
+C:\Users\hp\OneDrive\Documents\Sistem\Client\obj\Debug\Client.FrmEntities.resources
+C:\Users\hp\OneDrive\Documents\Sistem\Client\obj\Debug\Client.FrmLogin.resources
+C:\Users\hp\OneDrive\Documents\Sistem\Client\obj\Debug\StazeZaTrke.FrmGeneratorStaze.resources
+C:\Users\hp\OneDrive\Documents\Sistem\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\hp\OneDrive\Documents\Sistem\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Documents\Sistem\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\Sistem\Client\obj\Debug\Client.csproj.Up2Date
+C:\Users\hp\OneDrive\Documents\Sistem\Client\obj\Debug\Client.exe
+C:\Users\hp\OneDrive\Documents\Sistem\Client\obj\Debug\Client.pdb
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\Client.exe.config
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\Client.exe
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\Client.pdb
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\Common.dll
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\MaterialSkin.dll
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\Server.exe
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\DatabaseBroker.dll
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\Common.pdb
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\Server.pdb
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\Server.exe.config
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\DatabaseBroker.pdb
+C:\Users\User\Desktop\Sistem\Client\bin\Debug\DatabaseBroker.dll.config
+C:\Users\User\Desktop\Sistem\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sistem\Client\obj\Debug\Client.FrmSimulacija.resources
+C:\Users\User\Desktop\Sistem\Client\obj\Debug\Client.FrmStart.resources
+C:\Users\User\Desktop\Sistem\Client\obj\Debug\Client.FrmEntity.resources
+C:\Users\User\Desktop\Sistem\Client\obj\Debug\Client.FrmEntities.resources
+C:\Users\User\Desktop\Sistem\Client\obj\Debug\Client.FrmLogin.resources
+C:\Users\User\Desktop\Sistem\Client\obj\Debug\StazeZaTrke.FrmGeneratorStaze.resources
+C:\Users\User\Desktop\Sistem\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\User\Desktop\Sistem\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Sistem\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sistem\Client\obj\Debug\Client.csproj.Up2Date
+C:\Users\User\Desktop\Sistem\Client\obj\Debug\Client.exe
+C:\Users\User\Desktop\Sistem\Client\obj\Debug\Client.pdb
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\Client.exe.config
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\Client.exe
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\Client.pdb
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\Common.dll
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\MaterialSkin.dll
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\Server.exe
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\System.Buffers.dll
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\System.Memory.dll
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\System.Text.Json.dll
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\System.ValueTuple.dll
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\DatabaseBroker.dll
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\Common.pdb
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\Server.pdb
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\Server.exe.config
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\System.Buffers.xml
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\System.Memory.xml
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\System.Text.Json.xml
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\System.ValueTuple.xml
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\DatabaseBroker.pdb
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\bin\Debug\DatabaseBroker.dll.config
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\obj\Debug\Client.FrmSimulacija.resources
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\obj\Debug\Client.FrmStart.resources
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\obj\Debug\Client.FrmEntity.resources
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\obj\Debug\Client.FrmEntities.resources
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\obj\Debug\Client.FrmLogin.resources
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\obj\Debug\StazeZaTrke.FrmGeneratorStaze.resources
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\obj\Debug\Client.csproj.Up2Date
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\obj\Debug\Client.exe
+C:\Users\hp\OneDrive\Desktop\Sistem\Client\obj\Debug\Client.pdb

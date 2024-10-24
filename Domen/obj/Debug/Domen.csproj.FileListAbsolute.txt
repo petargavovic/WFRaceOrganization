@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Domen\bin\Debug\Domen.dll
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Domen\bin\Debug\Domen.pdb
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Domen\obj\Debug\Domen.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Domen\obj\Debug\Domen.dll
+C:\Users\User\Desktop\‪\7. semestar\Projektovanje softvera\Seminarski\.Implementacija\Sistem\Domen\obj\Debug\Domen.pdb
